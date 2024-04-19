@@ -1,0 +1,5 @@
+train: C:\\Harshal\\Data-Science-Projects\\Industry-Safety-Detection-using-Yolov7\\train.txt
+val: C:\\Harshal\\Data-Science-Projects\\Industry-Safety-Detection-using-Yolov7\\val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
